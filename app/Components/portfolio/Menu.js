@@ -1,46 +1,39 @@
+const Menu = [
+  {
+    id: 1,
+    Image: "/ct.jpg",
+    title: "CRM Application",
+    category: "Applications",
+    link: "https://github.com/siddumr/crm" // Replace with actual project link
+  },
+  {
+    id: 2,
+    Image: "/pt.jpg",
+    title: "PlantCare Application",
+    category: "Applications",
+    link: "https://github.com/siddumr/Plantcare-Fullstack" // Replace with actual project link
+  },
+  {
+    id: 3,
+    Image: "/model.jpg",
+    title: "Plant Disease Identification ML Model",
+    category: "Design",
+    link: "https://github.com/0x1Luffy/ml-model" // Replace with actual project link
+  },
+  {
+    id: 4,
+    Image: "/mt.jpg",
+    title: "Online Meeting Scheduler",
+    category: "Design",
+    link: "https://github.com/siddumr/Meeting_Scheduler" // Replace with actual project link
+  },
+  {
+    id: 5,
+    Image: "/bt.jpg",
+    title: "Antique Bike Seller",
+    category: "Design",
+    link: "https://github.com/siddumr" // Replace with actual project link
+  },
+];
 
-const Menu =[
-  {
-    id:1,
-    Image: "https://i.ibb.co/LxcHc59/NIKE-LANDING-PAGE.png",
-    title:"Nike Landing Page ",
-    category: "Design"
-  },
-  {
-    id:2,
-    Image: "https://i.ibb.co/2tWsbWh/Hero-Section.jpg",
-    title:"Online Course selling Website Design",
-    category: "Design"
-  },
-  {
-    id:3,
-    Image: "https://i.ibb.co/Wk2KTqs/RickShaw.jpg",
-    title:"RickShaw APP Design",
-    category: "Design"
-  },
-  {
-    id:4,
-    Image: "https://i.ibb.co/zP8Srzm/Screenshot-2023-09-24-182118.png",
-    title:"Modern Chair Showcase APP",
-    category: "Applications"
-  },
-  {
-    id:5,
-    Image: "https://i.ibb.co/Yfys33S/weather-app.png",
-    title:"Weather APP",
-    category: "Applications"
-  },
-  {
-    id:6,
-    Image: "https://i.ibb.co/0GtVbHq/dev-detetc.png",
-    title:"Dev Detection",
-    category: "Applications"
-  },
-  {
-    id:7,
-    Image: "https://i.ibb.co/zspXP6d/flank.png",
-    title:"FLANK a gaming app ",
-    category: "Case Study"
-  },
-]
-export default Menu
+export default Menu;
