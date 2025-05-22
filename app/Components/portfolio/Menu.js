@@ -18,7 +18,7 @@ const Menu = [
     Image: "/model.jpg",
     title: "Plant Disease Identification ML Model",
     category: "ML-Model",
-    link: "https://github.com/0x1Luffy/ml-model" // Replace with actual project link
+    link: "https://github.com/siddumr/ML-Model" // Replace with actual project link
   },
   {
     id: 4,
