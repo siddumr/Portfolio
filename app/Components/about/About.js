@@ -39,7 +39,7 @@ back-end development. Enthusiastic about learning new technologies and solving r
 
         <div className='skills__data'>
           <div className='skills__titles'>
-            <h3 className='skills__name'>UI/UX Designing</h3>
+            <h3 className='skills__name'>Cloud Technologies</h3>
             <span className='skills__number'>80%</span>
           </div>
 
