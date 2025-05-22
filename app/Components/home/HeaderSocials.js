@@ -6,7 +6,7 @@ const HeaderSocials = () => {
   <div className='home__socials'>
         <a href='https://www.linkedin.com/in/siddarthan-m-r-423546258' className='home__social-link' target='_blank'>
         <i class="fa-brands fa-linkedin"></i></a>
-     <a href="https://leetcode.com/your-username"
+     <a href="https://leetcode.com/Siddarthan21"
   className="home__social-link"
   target="_blank"
   rel="noopener noreferrer">
