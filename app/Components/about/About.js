@@ -20,7 +20,7 @@ languages such as Java and JavaScript. Experienced in building full-stack applic
 back-end development. Enthusiastic about learning new technologies and solving real-world problems through code.
 
         </p>
-        <a href='https://drive.google.com/file/d/1OFfZKqY-QNr40867YCx8XSEWPJ4JMGCY/view?usp=drive_link' className='btn' download={"siddu's Resume"}>Download Resume</a>
+        <a href='https://drive.google.com/file/d/1GQspORCvZuolOKjLddTG9jF3H0FuKC8Z/view?usp=drive_link' className='btn' download={"siddu's Resume"}>Download Resume</a>
       </div>
 
       <div className='about__skills grid'>
